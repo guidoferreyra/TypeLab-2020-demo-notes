@@ -13,6 +13,7 @@ cd ~
 ``` sh
 virtualenv -p python3 myToolsEnv
 ```
+If you dont have Python 3 installed you can install via homebrew.
 
 `myToolsEnv` will be the name for the virtual environment and the directory that will contain all the dependencies. (You can use whatever name you want).
 
