@@ -4,7 +4,7 @@
 
 2. Navigate to the folder where you want to create your virtual environment . For this case Im going to create it inside my  home folder. To navigate to that folder use:
 
-```
+``` sh
 cd ~
 ```
 
