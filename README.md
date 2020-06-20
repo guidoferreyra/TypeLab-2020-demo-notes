@@ -50,11 +50,6 @@ If you dont have Python 3 installed you can install via homebrew.
    deactivate
    ```
 
-8. To reactivate the environment you just need to use command from the step 4 . Hoewever is convenient to set an alias (shortcut) for this by adding the following line to your config file.
-
-   ``` sh
-   alias myTools="source ~/myToolsEnv/bin/activate"
-   ```
-
-   This config file is a hidden file that can have different names depending what shell interpreter are you using. For example for bash the file can be located at `~/.bash_profile` and for zsh it can be at `~/.zshrc`.
+8. To reactivate the environment you just need to use command from the step 4 . Hoewever is convenient to set an alias (shortcut) for this by adding the following line `alias myTools="source ~/myToolsEnv/bin/activate"` to your config file.
+This config file is a hidden file that can have different names depending what shell interpreter are you using. For example for bash the file can be located at `~/.bash_profile` and for zsh it can be at `~/.zshrc`.
 
