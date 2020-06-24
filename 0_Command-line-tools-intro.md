@@ -29,7 +29,7 @@ There is a common idea that using the terminal without being an expert can break
 
 # Installing tools
 
-As I mentioned before there is a lot of tools you can install and use trough the CLI. Commonly you will be installing them via a package manager like [Homebrew](https://brew.sh/) or [Pip](https://pypi.org/). A package manager is a software that simplifies the installation, updating and removal of softwares (maybe I can say its like the App Store). When installing tools that are written in Python is better to do it inside a virtual environment. See more [here](venv english.md) .
+As I mentioned before there is a lot of tools you can install and use trough the CLI. Commonly you will be installing them via a package manager like [Homebrew](https://brew.sh/) or [Pip](https://pypi.org/). A package manager is a software that simplifies the installation, updating and removal of softwares (maybe I can say its like the App Store). When installing tools that are written in Python is better to do it inside a virtual environment. See more [here](1_setup-a-Python-virtual-environment.md) .
 
 # A short list of tools
 
