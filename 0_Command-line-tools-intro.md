@@ -44,7 +44,7 @@ Here below a short list of tools commonly used on font production. I strongly en
 
 # Tune up your terminal (optional)
 
-The following instruction are totally optional, the default Terminal app and its configuration is perfectly fine to work with it, I personally recommend this "tunes up" because it makes the experience a lot more smoother.
+The following instruction are totally optional, the default Terminal app and its configuration is perfectly fine to work with it, I personally recommend this "enhancements" because it makes the experience a lot more smoother.
 
 1. **Choose you terminal application:** Like any other app there are a few alternatives, personally I prefer [iTerm](https://www.iterm2.com/) over the Terminal app that is shipped with Mac OS.
 
