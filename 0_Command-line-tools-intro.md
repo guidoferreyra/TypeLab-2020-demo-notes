@@ -1,19 +1,18 @@
 # Command line tools intro
 
-Most of the time that we are using our computers we are operating them trough a graphical user interface (GUI), alternatively operating systems provides an interface based only on inputing texts trough in a terminal, this is the command line interface (CLI). By using it we not only could operate the operating system functions but also there are a lot of third-party tools that can be really helpful and almost vital in a font production workflow. 
+Most of the time that we are using our computers we are operating them trough a graphical user interface (GUI), alternatively operating systems provides an interface based only on inputing texts in a terminal, this is the command line interface (CLI). By using it we not only could operate the operating system functions but also use a lot of third-party tools that can be really helpful and pretty vital in a font production workflow. 
 
-At the beginning the use of this interface can be a little intimidating but after understanding some basic concepts it becomes a really useful and performant way to perform some tasks. Personally, I strongly recommend to spend some time configuring how the terminal looks, in my case it helped me a lot to get confortable with the CLI.
+At the beginning, the use of this interface can be a little intimidating but after understanding some basic concepts it becomes a really useful and performant way to perform some tasks. Personally, I strongly recommend to spend some time configuring how the terminal looks, in my case it helped me a lot to get confortable with the CLI.
 
-There is a common idea that using the terminal without being an expert can break your computer, I think is really hard to crash your computer unless you are messing with the operating system configurations, so I don’t think we should be afraid of using it.
+There is a common idea that using the terminal without you being an expert can break your computer, I think is really hard to crash your computer unless you are messing with the operating system files, so I don’t think we should be afraid of using it.
 
 # First Steps
 
-1. Open your Terminal app of preference. You will notice a `~` in the prompt, this represents the home folder of your computer
-2. Alternatively we can type the command `pwd`  to see in what directory we are right now
+1. Open your Terminal app of preference. You will notice a `~` in the prompt, this represents the home folder of your computer.
+2. Alternatively we can type the command `pwd`  to see in what directory we are right now.
 3. `ls`  will list all the directories and files  inside de current directory.
 4. `cd`  (_change directory_)  it used to move us to another directory. A few examples here:
    - `cd Desktop` (Using a relative path to our current directory)
-
    - `cd /Users/guidoferreyra/Documents/Arduino` (using an absolute path to a directory in our computer) 
      Tip: By drag and dropping directories to our terminal window it will paste the absolute path to it.
    - `cd ~` Will lead us to the _home_ directory of our computer.
@@ -35,13 +34,12 @@ As I mentioned before there is a lot of tools you can install and use trough the
 
 Here below a short list of tools commonly used on font production. I strongly encourage you to read the tools documentation and usage instructions:
 
-- [FontTools/TTX](https://fonttools.readthedocs.io/en/latest/) — Convert binaries to and from a XML human readable format, subset fonts.
-- [AFDKO](https://github.com/adobe-type-tools/afdko) — Build fonts, create proofs, autothint.
+- [FontTools/TTX](https://fonttools.readthedocs.io/en/latest/) — Convert binaries to and from a XML human readable format, subset fonts, and more.
+- [AFDKO](https://github.com/adobe-type-tools/afdko) — Build fonts, create proofs, autothint, and more.
 - [fontmake](https://github.com/googlefonts/fontmake) — Build fonts from various sources very useful for variable fonts:
 - [fontbakery](https://font-bakery.readthedocs.io/en/stable/) — Create QA reports from fonts
 - [TTFAutohinting](https://www.freetype.org/ttfautohint/) — TrueType autohinting
 - [Fontlang](https://github.com/rosettatype/langs-db),  Rosetta Type Database of languages — Get the language support from a font
-
 
 
 # Tune up your terminal (optional)
