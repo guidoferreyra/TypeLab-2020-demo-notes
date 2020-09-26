@@ -2,7 +2,7 @@
 
 Most of the time that we are using our computers we are operating them trough a graphical user interface (GUI), alternatively operating systems provides an interface based only on inputing texts in a terminal, this is the command line interface (CLI). By using it we not only could operate the operating system functions but also use a lot of third-party tools that can be really helpful and pretty vital in a font production workflow. 
 
-At the beginning, the use of this interface can be a little intimidating but after understanding some basic concepts it becomes a really useful and performant way to perform some tasks. Personally, I strongly recommend to spend some time configuring how the terminal looks, in my case it helped me a lot to get confortable with the CLI.
+At the beginning, the use of this interface can be a little intimidating but after understanding some basic concepts it becomes a really useful and a performant way to do some tasks. Personally, I strongly recommend to spend some time configuring how the terminal looks, in my case it helped me a lot to get confortable with the CLI.
 
 There is a common idea that using the terminal without you being an expert can break your computer, I think is really hard to crash your computer unless you are messing with the operating system files, so I don’t think we should be afraid of using it.
 
@@ -17,14 +17,14 @@ There is a common idea that using the terminal without you being an expert can b
      Tip: By drag and dropping directories to our terminal window it will paste the absolute path to it.
    - `cd ~` Will lead us to the _home_ directory of our computer.
 5. `clear` cleans the terminal window to get clarity after being inputing various commands.
-6. `touch` nos permite crear archivos por ejemplo con `touch myFile.txt`  creamos un archivo .txt en el directorio actual.
-7. `open myFile.txt` abrirá el archivo que le indicamos en la aplicación por defecto para ese tipo de archivo.
-   El argumento `-a  ` nos permite abrir un archivo con una aplicación específicamente ej: `open -a "Pages" myFile.txt` 
-8. Usando la flecha _Arriba_ de nuestro teclado podemos navegar por nuestro historial de comandos.
-9. el comando `history` imprime el historial de comandos en la ventana.
-10. Para eliminar archivos usamos `rm myFile.txt ` 
-11. `mkdir myFolder ` Nos permite crear un directorio 
-12. `rm -r myFolder`   (_remove recursively_) elimina el directorio y su contenido
+6. `touch` It creates a file. For instance with `touch myFile.txt` it will create a .txt file in the current directory.
+7. `open myFile.txt` Opens the file in the default app associated with this filetype.
+   The `-a  ` argument allows us to specify with which application we want to open the file. ie: `open -a "Pages" myFile.txt` 
+8. With the _Up_ arrow key of our keyboard we can navigate trough our history of commands typed in the terminal.
+9. The `history` command will print our history in the terminal window.
+10. To remove a file we use `rm myFile.txt ` 
+11. `mkdir myFolder ` It will create a directory
+12. `rm -r myFolder` (_remove recursively_) removes the directory and its contents.
 
 # Installing tools
 
